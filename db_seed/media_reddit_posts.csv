@@ -1,0 +1,108 @@
+id,title,content,author,subreddit,created_utc,score,upvote_ratio,num_comments,url,permalink
+1mlp1tc,The Top Coin Creator on Base's Zora Is Porn Company Fake Taxi,,GreedVault,CryptoCurrency,2025-08-09 13:09:32+00:00,3,0.8,2,https://decrypt.co/334122/creator-coin-base-zora-porn-company-fake-taxi,/r/CryptoCurrency/comments/1mlp1tc/the_top_coin_creator_on_bases_zora_is_porn/
+1mlnotw,World Liberty Financial weighs $1.5B public company to hold WLFI tokens,,GreedVault,CryptoCurrency,2025-08-09 11:59:12+00:00,8,0.79,5,https://cointelegraph.com/news/world-liberty-financial-plans-1-5b-public-company-hold-wlfi-tokens,/r/CryptoCurrency/comments/1mlnotw/world_liberty_financial_weighs_15b_public_company/
+1mlnacp,QVM- giving developers far more capabilities to build,"Asking AI about QVM capabilities. ""Won't this give developers far more capabilities than any of today's VMs which are very limited?""
+
+
+Yes—absolutely. What QANplatform is doing with Hermit and its QVM does give developers far more capabilities than traditional smart contract VMs today.
+
+Let’s unpack that clearly:
+
+💡 1. Most smart contract VMs are extremely limited
+Current blockchain VMs like:
+
+EVM (Ethereum Virtual Machine)
+
+WASM-based VMs (e.g., Polkadot, NEAR)
+
+MoveVM (Aptos/Sui)
+
+...are intentionally restricted for:
+
+Security (no file access, threading, or unrestricted memory use)
+
+Determinism (all nodes must get the same result)
+
+Resource control (gas limits, cycle counting)
+
+Trade-off: High security, but poor developer freedom. You're stuck with:
+
+Limited languages (Solidity, Rust, Move)
+
+No standard Linux features (threads, syscalls, shared memory, filesystems)
+
+No support for existing C/C++/Go tools
+
+🧠 2. QAN’s approach: deterministic execution of native binaries
+QAN’s QVM (via Hermit) allows:
+
+Running native Linux ELF binaries (e.g., compiled C/C++/Rust/Go)
+
+Using a much larger subset of the standard C library
+
+Leveraging existing developer tooling, debugging, profiling
+
+No need to rewrite everything in a limited blockchain-specific language
+
+✅ This is a huge gain in capability:
+
+Developers can port existing codebases
+
+Write complex logic in familiar languages
+
+Even interface with legacy enterprise systems (theoretically)
+
+In essence: QAN offers the closest thing to a full OS sandbox on-chain, but still aims for deterministic results (via Hermit).
+
+🧱 3",Original-Assistant-8,CryptoCurrency,2025-08-09 11:36:21+00:00,2,0.6,2,https://www.reddit.com/r/CryptoCurrency/comments/1mlnacp/qvm_giving_developers_far_more_capabilities_to/,/r/CryptoCurrency/comments/1mlnacp/qvm_giving_developers_far_more_capabilities_to/
+1mln01b,Harvard Reports $116M Stake in BlackRock’s iShares Bitcoin ETF in Latest Filing,"Harvard's endowment fund has invested $116 million in BlackRock's Bitcoin exchange-traded fund (ETF) through about 1.9 million shares. This investment represents a significant stake in the fund, valued at over $116 million as of June 30, 2024. Harvard's endowment, worth $53.2 billion, is the largest among US universities. This move follows the SEC's approval of the BlackRock BTC ETF in January 2024, which has grown to over $86 billion in net assets.
+
+",CriticalCobraz,CryptoCurrency,2025-08-09 11:19:19+00:00,39,0.9,6,https://www.coindesk.com/business/2025/08/08/harvard-reports-usd116m-stake-in-blackrock-s-ishares-bitcoin-etf-in-latest-filing,/r/CryptoCurrency/comments/1mln01b/harvard_reports_116m_stake_in_blackrocks_ishares/
+1mlmjta,"why does XRP dominate discussion for payments when Algorand is faster, greener, and more decentralized?","Just curious—both chains claim payment rails and ISO 20022 compliance, but:
+
+Algorand is 90× cheaper per tx and achieves finality in ~3s with no forks. It has over 1,900 validators and on-chain governance. XRP’s cap is huge—ALGO only needs a small move to outperform percentage-wise.
+
+I get XRP has the name recognition, but on paper ALGO’s faster finality (~3s), cheaper fees, carbon-negative footprint, and full decentralization make it just as strong for payments. It’s already running CBDCs and RWAs for governments. Is it just legacy partnerships and marketing, or is there something it can actually do that Algorand can’t?",Numerous_Wonders81,CryptoCurrency,2025-08-09 10:51:58+00:00,0,0.44,35,https://www.reddit.com/r/CryptoCurrency/comments/1mlmjta/why_does_xrp_dominate_discussion_for_payments/,/r/CryptoCurrency/comments/1mlmjta/why_does_xrp_dominate_discussion_for_payments/
+1mlll0o,Euro in DeFi feels like it's completely left behind.,"As a European, my native money is Euro. But in the DeFi space, USD is the one. And that puts a new risk for us Europeans, which is the USD-EUR rate.   
+For the past year, US dollar has lost 11% to EURO. That means that even with a solid no-brainer position like Aave (about 5% on USDC lending), we still lost money. 
+
+Now, Circle has issued a Euro stablecoin, named EURC but accordingly to the charts, EURC marketcap is about 220 milllion...compared to 270 BILLION marketcap of all stablecoins. A drop in the ocean. And the yield in DeFi is thin to say the least (about 3% on evey platform).  
+Why is that so ? I'm genuinely wondering why a Euro Stablecoin is not more present in DeFi. Is it a matter of regulation ? Of people interest ? Has it lost against the ever dominance of US dollar ?  
+And I've only mentionned EURC because it's basically the only one existing, other EURO stablecoins do exist, but either very risky, not enough regulated, and so on.
+
+What are you thoughts about this, especially fellow europeans ? 
+
+",Nisyth_,CryptoCurrency,2025-08-09 09:48:53+00:00,64,0.88,50,https://www.reddit.com/r/CryptoCurrency/comments/1mlll0o/euro_in_defi_feels_like_its_completely_left_behind/,/r/CryptoCurrency/comments/1mlll0o/euro_in_defi_feels_like_its_completely_left_behind/
+1mll5t0,"Crypto attracts $2.67B in funding during July, bolstered by Pumpfun and stablecoin interest",,ChemicalAnybody6229,CryptoCurrency,2025-08-09 09:19:20+00:00,6,0.67,4,https://cryptoslate.com/crypto-attracts-2-67b-in-funding-during-july-bolstered-by-pumpfun-and-stablecoin-interest/,/r/CryptoCurrency/comments/1mll5t0/crypto_attracts_267b_in_funding_during_july/
+1mljskn,Audit blames Czech justice ministry for $45 million Bitcoin gift scandal,,Calm_Voice_9791,CryptoCurrency,2025-08-09 07:46:20+00:00,4,0.7,4,https://www.cryptopolitan.com/audit-blames-czech-ministry-for-gift-scandal/,/r/CryptoCurrency/comments/1mljskn/audit_blames_czech_justice_ministry_for_45/
+1mljbyj,BlackRock launching a SOL ETF in first wave would be 'messed up' — Analyst,,DryMyBottom,CryptoCurrency,2025-08-09 07:16:26+00:00,8,0.67,8,https://cointelegraph.com/news/blackrock-launching-a-sol-etf-in-first-wave-would-be-messed-up-analyst,/r/CryptoCurrency/comments/1mljbyj/blackrock_launching_a_sol_etf_in_first_wave_would/
+1mlifck,Exit strategy help required,"
+Ok. Sorry I can’t attach a photo of my portfolio. I’ll type it out instead:
+
+Bought 3.5k AUD in crypto between 16-22nd January 2025, and watched as it all came crashing down lol. Now I’m in a better position I’d like advice on how to exit/ what crypto to sell/ swap. No photos allowed so I’ll list my investments and where they’re sitting now, can someone please advise of a good strategy moving forward, as I have no idea what to do right now tbh..
+
+Purchased crypto in AUD:                               
+$1k into btc, currently worth $1067.  
+$850 into ETH, currently worth $1032.
+$500 into SOL, currently worth $385.           
+$335 into XRP, currently worth $336.          
+$335 into ADA, currently worth $260.          
+$100 into CRO, currently worth $105.            
+$200 into ICP, currently worth $94.               
+$150 into DOGE, currently worth $80.
+
+Should I sell ICP and DOGE, maybe ADA and SOL, take the loss and put into ETH or BTC, or into CRO?? Any help or advice would be greatly appreciated, cheers!! Happy to answer any questions..
+
+
+ ",hotnsweaty69,CryptoCurrency,2025-08-09 06:19:37+00:00,0,0.44,41,https://www.reddit.com/r/CryptoCurrency/comments/1mlifck/exit_strategy_help_required/,/r/CryptoCurrency/comments/1mlifck/exit_strategy_help_required/
+1mlqh2r,Top 10 Signs of a No-Coiner,,Wise-Grapefruit-1443,CryptoCurrency,2025-08-09 14:14:45+00:00,1,1.0,0,https://i.redd.it/vu4f5mq0tvhf1.png,/r/CryptoCurrency/comments/1mlqh2r/top_10_signs_of_a_nocoiner/
+1mlqgpi,Cambridge Study says 52.4% of all energy used in Bitcoin mining is sustainable with a rising tendency,"The Cambridge Centre for Alternative Finance (CCAF) has released a report on the Bitcoin mining industry. Key highlights include:
+
+* Sustainable energy sources now account for 52.4% of Bitcoin mining, which includes 9.8% nuclear and 42.6% renewables such as hydropower and wind, compares to a 2022 estimate of 37.6% overall sustainable energy use. 
+* Natural gas has become the largest energy source used in Bitcoin mining, accounting for 38.2%, replacing coal which now accounts for 8.9%.
+* The study estimates Bitcoin's annual electricity consumption at 138 TWh, or 0.5% of global consumption.
+* North America plays a crucial role in the digital mining industry, with the US accounting for 75.4% of total reported Bitcoin mining activity.
+
+This report is based on a comprehensive survey of 49 digital mining firms across 23 countries.",CriticalCobraz,CryptoCurrency,2025-08-09 14:14:17+00:00,1,1.0,0,https://www.jbs.cam.ac.uk/2025/cambridge-study-sustainable-energy-rising-in-bitcoin-mining/,/r/CryptoCurrency/comments/1mlqgpi/cambridge_study_says_524_of_all_energy_used_in/
+1mlqbtx,Coinbase kills listing requirements with rollout of DEX trading integration in exchange app,,DKKFrodo,CryptoCurrency,2025-08-09 14:08:12+00:00,0,0.5,0,https://peakd.com/hive-167922/@badbitch/coinbase-kills-listing-requirements-with-rollout-of-dex-trading-integration-in-exchange-app,/r/CryptoCurrency/comments/1mlqbtx/coinbase_kills_listing_requirements_with_rollout/
+1mlqrb7,"Institutions grab 1.03m Ethereum worth $4.17b, ETH price breaks $4,000",,DryMyBottom,CryptoCurrency,2025-08-09 14:27:31+00:00,4,1.0,0,https://crypto.news/firms-grab-1-03m-ethereum-worth-4-17b-eth-price-4000/,/r/CryptoCurrency/comments/1mlqrb7/institutions_grab_103m_ethereum_worth_417b_eth/

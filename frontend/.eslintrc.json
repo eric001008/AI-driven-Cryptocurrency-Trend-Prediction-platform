@@ -1,0 +1,37 @@
+{
+    "env": {
+      "browser": true,
+      "es2021": true,
+      "jest": true
+    },
+    "extends": [
+      "airbnb",
+      "airbnb/hooks"
+    ],
+    "parserOptions": {
+      "ecmaVersion": 12,
+      "sourceType": "module"
+    },
+    "rules": {
+      "react/react-in-jsx-scope": "off",
+      "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+      "no-console": "off",
+      "no-undef": "off",
+      "no-unused-vars": ["warn", { "argsIgnorePattern": "^_" }],
+      "import/no-extraneous-dependencies": "off",
+      "class-methods-use-this": "off",
+      "no-useless-constructor": "off",
+      "no-empty-function": "off",
+      "react/prop-types": "off",
+      "react/no-array-index-key": "off",
+      "no-nested-ternary": "off",
+      "camelcase": "off",
+      "jsx-a11y/anchor-is-valid": "off",
+      "react/jsx-props-no-spreading": "off",
+      "max-len": ["warn", { "code": 120 }],
+      "prefer-promise-reject-errors": "off",
+      "react-hooks/exhaustive-deps": "warn",
+      "linebreak-style": 0
+    }
+  }
+  

@@ -1,0 +1,254 @@
+{
+  "symbol": "USDT",
+  "statistic": {
+    "symbol": "USDT",
+    "market_cap": "100000000000",
+    "volume_24h": "45000000000",
+    "circulating_supply": "9999999",
+    "total_supply": "21000000",
+    "max_supply": "21000000",
+    "percent_change_24h": 0.01,
+    "percent_change_7d": 0.03,
+    "last_updated": "Thu, 03 Jul 2025 04:56:58 GMT"
+  },
+  "price_trend": [
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:06:00 GMT",
+      "price": "-19.600611"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:07:00 GMT",
+      "price": "49.659981"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:08:00 GMT",
+      "price": "184.056778"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:09:00 GMT",
+      "price": "35.926105"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:10:00 GMT",
+      "price": "-163.6096"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:11:00 GMT",
+      "price": "-138.896917"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:12:00 GMT",
+      "price": "-102.609895"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:13:00 GMT",
+      "price": "-89.848466"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:14:00 GMT",
+      "price": "168.162864"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:15:00 GMT",
+      "price": "132.424782"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:16:00 GMT",
+      "price": "143.581892"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:17:00 GMT",
+      "price": "-62.592127"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:18:00 GMT",
+      "price": "82.917519"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:19:00 GMT",
+      "price": "128.32855"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:20:00 GMT",
+      "price": "16.190184"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:21:00 GMT",
+      "price": "-161.446573"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:22:00 GMT",
+      "price": "157.984383"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:23:00 GMT",
+      "price": "-105.316854"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:24:00 GMT",
+      "price": "-37.552793"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:25:00 GMT",
+      "price": "-68.900968"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:26:00 GMT",
+      "price": "-72.778148"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:27:00 GMT",
+      "price": "158.755363"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:28:00 GMT",
+      "price": "64.082888"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:29:00 GMT",
+      "price": "62.956141"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:30:00 GMT",
+      "price": "9.874603"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:31:00 GMT",
+      "price": "36.482372"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:32:00 GMT",
+      "price": "-112.244532"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:33:00 GMT",
+      "price": "4.719789"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:34:00 GMT",
+      "price": "-198.923325"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:35:00 GMT",
+      "price": "161.179557"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:36:00 GMT",
+      "price": "45.254196"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:37:00 GMT",
+      "price": "-164.948701"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:38:00 GMT",
+      "price": "175.501422"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:39:00 GMT",
+      "price": "-27.557353"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:40:00 GMT",
+      "price": "-162.086526"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:41:00 GMT",
+      "price": "155.811871"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:42:00 GMT",
+      "price": "-159.469731"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:43:00 GMT",
+      "price": "-89.709612"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:44:00 GMT",
+      "price": "-96.459548"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:45:00 GMT",
+      "price": "-111.564207"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:46:00 GMT",
+      "price": "70.445181"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:47:00 GMT",
+      "price": "-77.654241"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:48:00 GMT",
+      "price": "175.966351"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:49:00 GMT",
+      "price": "-114.050516"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:50:00 GMT",
+      "price": "185.301633"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:51:00 GMT",
+      "price": "37.599766"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:52:00 GMT",
+      "price": "-19.384027"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:53:00 GMT",
+      "price": "104.721533"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:54:00 GMT",
+      "price": "-46.308259"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:55:00 GMT",
+      "price": "179.339927"
+    }
+  ],
+  "sentiment": [
+    {
+      "sentiment": "positive",
+      "sentiment_score": 0.837,
+      "title": "USDT surges as whales accumulate",
+      "url": "https://example.com/news/usdt-whales"
+    },
+    {
+      "sentiment": "negative",
+      "sentiment_score": 0.231,
+      "title": "USDT faces regulatory uncertainty",
+      "url": "https://example.com/news/usdt-regulation"
+    }
+  ],
+  "aml": [
+    {
+      "aml": "Safe",
+      "title": "USDT transactions look normal",
+      "url": "https://example.com/aml/usdt-safe"
+    },
+    {
+      "aml": "There is a possibility of money laundering.",
+      "title": "Suspicious USDT activity detected on darknet",
+      "url": "https://example.com/aml/usdt-alert"
+    }
+  ],
+  "latest_news": [
+    {
+      "symbol": "USDT",
+      "title": "Breaking: USDT hits new 3-month high",
+      "url": "https://example.com/news/usdt-high"
+    },
+    {
+      "symbol": "USDT",
+      "title": "Analyst says USDT could outperform in Q4",
+      "url": "https://example.com/news/usdt-forecast"
+    }
+  ]
+}

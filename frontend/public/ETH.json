@@ -1,0 +1,254 @@
+{
+  "symbol": "ETH",
+  "statistic": {
+    "symbol": "ETH",
+    "market_cap": "700000000000",
+    "volume_24h": "19000000000",
+    "circulating_supply": "9999999",
+    "total_supply": "21000000",
+    "max_supply": "21000000",
+    "percent_change_24h": -2.4,
+    "percent_change_7d": 1.1,
+    "last_updated": "Thu, 03 Jul 2025 04:56:58 GMT"
+  },
+  "price_trend": [
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:06:00 GMT",
+      "price": "3719.763874"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:07:00 GMT",
+      "price": "3740.858756"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:08:00 GMT",
+      "price": "3794.306188"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:09:00 GMT",
+      "price": "3896.885151"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:10:00 GMT",
+      "price": "3984.407696"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:11:00 GMT",
+      "price": "3671.368563"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:12:00 GMT",
+      "price": "3980.212835"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:13:00 GMT",
+      "price": "3816.457301"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:14:00 GMT",
+      "price": "3982.749648"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:15:00 GMT",
+      "price": "3675.5685"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:16:00 GMT",
+      "price": "3897.708252"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:17:00 GMT",
+      "price": "3611.985298"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:18:00 GMT",
+      "price": "3837.219155"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:19:00 GMT",
+      "price": "3663.808741"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:20:00 GMT",
+      "price": "3954.923755"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:21:00 GMT",
+      "price": "3936.687548"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:22:00 GMT",
+      "price": "3850.715199"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:23:00 GMT",
+      "price": "3919.614644"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:24:00 GMT",
+      "price": "3968.468802"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:25:00 GMT",
+      "price": "3728.2792"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:26:00 GMT",
+      "price": "3973.649776"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:27:00 GMT",
+      "price": "3926.542416"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:28:00 GMT",
+      "price": "3620.155236"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:29:00 GMT",
+      "price": "3641.718255"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:30:00 GMT",
+      "price": "3663.850762"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:31:00 GMT",
+      "price": "3931.116094"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:32:00 GMT",
+      "price": "3801.701731"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:33:00 GMT",
+      "price": "3840.810391"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:34:00 GMT",
+      "price": "3963.480326"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:35:00 GMT",
+      "price": "3794.853"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:36:00 GMT",
+      "price": "3692.674366"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:37:00 GMT",
+      "price": "3924.001444"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:38:00 GMT",
+      "price": "3753.51112"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:39:00 GMT",
+      "price": "3848.074378"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:40:00 GMT",
+      "price": "3822.588983"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:41:00 GMT",
+      "price": "3959.627342"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:42:00 GMT",
+      "price": "3989.064031"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:43:00 GMT",
+      "price": "3778.607356"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:44:00 GMT",
+      "price": "3778.405958"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:45:00 GMT",
+      "price": "3712.681706"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:46:00 GMT",
+      "price": "3893.079805"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:47:00 GMT",
+      "price": "3798.652929"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:48:00 GMT",
+      "price": "3796.700797"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:49:00 GMT",
+      "price": "3885.271225"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:50:00 GMT",
+      "price": "3922.753849"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:51:00 GMT",
+      "price": "3798.714435"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:52:00 GMT",
+      "price": "3768.479247"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:53:00 GMT",
+      "price": "3765.988091"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:54:00 GMT",
+      "price": "3600.623535"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:55:00 GMT",
+      "price": "3975.618562"
+    }
+  ],
+  "sentiment": [
+    {
+      "sentiment": "positive",
+      "sentiment_score": 0.773,
+      "title": "ETH surges as whales accumulate",
+      "url": "https://example.com/news/eth-whales"
+    },
+    {
+      "sentiment": "negative",
+      "sentiment_score": 0.332,
+      "title": "ETH faces regulatory uncertainty",
+      "url": "https://example.com/news/eth-regulation"
+    }
+  ],
+  "aml": [
+    {
+      "aml": "Safe",
+      "title": "ETH transactions look normal",
+      "url": "https://example.com/aml/eth-safe"
+    },
+    {
+      "aml": "There is a possibility of money laundering.",
+      "title": "Suspicious ETH activity detected on darknet",
+      "url": "https://example.com/aml/eth-alert"
+    }
+  ],
+  "latest_news": [
+    {
+      "symbol": "ETH",
+      "title": "Breaking: ETH hits new 3-month high",
+      "url": "https://example.com/news/eth-high"
+    },
+    {
+      "symbol": "ETH",
+      "title": "Analyst says ETH could outperform in Q4",
+      "url": "https://example.com/news/eth-forecast"
+    }
+  ]
+}

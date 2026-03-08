@@ -1,0 +1,254 @@
+{
+  "symbol": "BTC",
+  "statistic": {
+    "symbol": "BTC",
+    "market_cap": "1500000000000",
+    "volume_24h": "35000000000",
+    "circulating_supply": "9999999",
+    "total_supply": "21000000",
+    "max_supply": "21000000",
+    "percent_change_24h": 1.5,
+    "percent_change_7d": 5.2,
+    "last_updated": "Thu, 03 Jul 2025 04:56:58 GMT"
+  },
+  "price_trend": [
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:06:00 GMT",
+      "price": "67920.80358"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:07:00 GMT",
+      "price": "68019.963986"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:08:00 GMT",
+      "price": "67867.604342"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:09:00 GMT",
+      "price": "67912.171351"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:10:00 GMT",
+      "price": "67930.835267"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:11:00 GMT",
+      "price": "67813.333524"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:12:00 GMT",
+      "price": "67999.368605"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:13:00 GMT",
+      "price": "67712.80873"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:14:00 GMT",
+      "price": "67860.773269"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:15:00 GMT",
+      "price": "67750.445049"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:16:00 GMT",
+      "price": "68016.122801"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:17:00 GMT",
+      "price": "67815.601249"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:18:00 GMT",
+      "price": "67744.954937"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:19:00 GMT",
+      "price": "67960.17744"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:20:00 GMT",
+      "price": "68016.760792"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:21:00 GMT",
+      "price": "67866.985401"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:22:00 GMT",
+      "price": "67797.386921"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:23:00 GMT",
+      "price": "67776.298005"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:24:00 GMT",
+      "price": "67865.956353"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:25:00 GMT",
+      "price": "67933.185189"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:26:00 GMT",
+      "price": "68083.379155"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:27:00 GMT",
+      "price": "68007.72906"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:28:00 GMT",
+      "price": "68000.998902"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:29:00 GMT",
+      "price": "67988.418534"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:30:00 GMT",
+      "price": "68046.532705"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:31:00 GMT",
+      "price": "68066.602647"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:32:00 GMT",
+      "price": "67987.785028"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:33:00 GMT",
+      "price": "67909.127209"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:34:00 GMT",
+      "price": "67773.179505"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:35:00 GMT",
+      "price": "67792.120429"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:36:00 GMT",
+      "price": "68065.899863"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:37:00 GMT",
+      "price": "68011.655755"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:38:00 GMT",
+      "price": "67779.522219"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:39:00 GMT",
+      "price": "67893.479182"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:40:00 GMT",
+      "price": "67901.718005"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:41:00 GMT",
+      "price": "68037.325974"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:42:00 GMT",
+      "price": "67774.272859"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:43:00 GMT",
+      "price": "67967.157684"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:44:00 GMT",
+      "price": "67929.656247"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:45:00 GMT",
+      "price": "67826.65928"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:46:00 GMT",
+      "price": "68088.877991"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:47:00 GMT",
+      "price": "68045.645125"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:48:00 GMT",
+      "price": "67949.639347"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:49:00 GMT",
+      "price": "67858.420797"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:50:00 GMT",
+      "price": "67900.292563"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:51:00 GMT",
+      "price": "67729.270335"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:52:00 GMT",
+      "price": "67773.420745"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:53:00 GMT",
+      "price": "67729.787986"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:54:00 GMT",
+      "price": "67809.278074"
+    },
+    {
+      "last_updated": "Thu, 03 Jul 2025 04:55:00 GMT",
+      "price": "67900.493668"
+    }
+  ],
+  "sentiment": [
+    {
+      "sentiment": "positive",
+      "sentiment_score": 0.638,
+      "title": "BTC surges as whales accumulate",
+      "url": "https://example.com/news/btc-whales"
+    },
+    {
+      "sentiment": "negative",
+      "sentiment_score": 0.123,
+      "title": "BTC faces regulatory uncertainty",
+      "url": "https://example.com/news/btc-regulation"
+    }
+  ],
+  "aml": [
+    {
+      "aml": "Safe",
+      "title": "BTC transactions look normal",
+      "url": "https://example.com/aml/btc-safe"
+    },
+    {
+      "aml": "There is a possibility of money laundering.",
+      "title": "Suspicious BTC activity detected on darknet",
+      "url": "https://example.com/aml/btc-alert"
+    }
+  ],
+  "latest_news": [
+    {
+      "symbol": "BTC",
+      "title": "Breaking: BTC hits new 3-month high",
+      "url": "https://example.com/news/btc-high"
+    },
+    {
+      "symbol": "BTC",
+      "title": "Analyst says BTC could outperform in Q4",
+      "url": "https://example.com/news/btc-forecast"
+    }
+  ]
+}

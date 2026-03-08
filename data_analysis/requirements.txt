@@ -1,0 +1,7 @@
+pandas
+psycopg2-binary
+vaderSentiment
+scikit-learn
+torch
+joblib
+numpy

@@ -1,0 +1,52 @@
+name: Backend CI
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:14
+        env:
+          POSTGRES_DB: overdb
+          POSTGRES_USER: admincedric
+          POSTGRES_PASSWORD: comp9900
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd="pg_isready -U admincedric"
+          --health-interval=10s
+          --health-timeout=5s
+          --health-retries=5
+
+    env:
+      POSTGRES_DB: overdb
+      POSTGRES_USER: admincedric
+      POSTGRES_PASSWORD: comp9900
+      COINMARKETCAP_SECRET: f91c67e8-1480-44c4-80cc-77d55c594644
+      URL_COINMARKETCAP: https://pro-api.coinmarketcap.com
+      ENV_PATH: .env.test
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install pytest psycopg2 requests python-dotenv praw psycopg2-binary pandas telethon web3
+
+      - name: Wait for database
+        run: sleep 10
+
+      - name: Run tests
+        
+        run: |
+          export PYTHONPATH=$PYTHONPATH:$(pwd)
+          pytest tests/

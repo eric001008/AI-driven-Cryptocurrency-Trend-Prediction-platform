@@ -1,0 +1,6 @@
+# survey_service/requirements.txt
+
+fastapi
+uvicorn[standard]
+psycopg2-binary
+PyJWT==2.8.0
