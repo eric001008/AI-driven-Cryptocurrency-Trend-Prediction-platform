@@ -1,0 +1,1 @@
+# AI-driven-Cryptocurrency-Trend-Prediction-platform
